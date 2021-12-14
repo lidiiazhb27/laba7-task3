@@ -1,0 +1,28 @@
+.game {
+  width: 200px;
+  height: 200px;
+  margin: 1px;
+  border: black 0.5px solid;
+  display: inline-block;
+}
+/* стилі до блочних елементів. Розімр - ширина/висота, відступ, межі та display */
+#game1 {
+  background: #0062ff;
+}
+
+#game2 {
+  background: #ff0019;
+}
+
+#game3 {
+  background: #ffaa00;
+}
+
+#game4 {
+  background: #3ec400;
+}
+/* елементам задала колір заливки */
+div {
+  cursor: pointer;
+}
+/* мишка курсив */
